@@ -1,7 +1,9 @@
 ---
-title: ソシャゲのメンテについて知らせてくれる茜ちゃんbot
+title: 茜ちゃんbot
 visible: true
 ---
+
+# ソシャゲのメンテについて知らせてくれる茜ちゃんbot
 
 ## About
 私が運営しているMastodonインスタンス「Seyade.」で稼働させている、  
